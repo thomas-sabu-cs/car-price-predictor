@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` file for your Car Price Predictor project, ready for GitHub!
 
-```markdown
 # Car Price Predictor
 
 This project implements a machine learning model to predict used car selling prices based on various features. The model is built using Python and popular data science libraries, and the entire workflow is designed to be run within a Jupyter Notebook environment.
@@ -183,4 +181,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, please feel free to reach out.
 
 ---
-```
